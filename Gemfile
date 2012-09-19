@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in cathetometer.gemspec
+# Specify your gem's dependencies in blix.gemspec
 gemspec

@@ -36,3 +36,6 @@
 # Bayes Modal Estimate
 #
 # p(theta|x_i) ~ L(theta|x_i) * p(theta)
+
+# graded response model (GRM) # Samejima, F. (1969). Estimation of latent ability using a response pattern of graded scores. Psychometrika Monograph Supplement, No. 17.
+# generalized partial credit model # Muraki, E. (1992). A generalized partial credit model: Application of an EM algorithm. Applied Psychological Measurement, 16, 159-176.

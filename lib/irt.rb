@@ -1,3 +1,24 @@
+# List of models from http://www.umass.edu/remp/software/simcata/wingen/modelsF.html
+#
+# Unidimensional IRT Models for Dichotomous Responses
+# - Normal Ogive Model
+# - One-Parameter Logistic Model (1PLM a.k.a. Rasch Model)
+# - Two-Parameter Logistic Model (2PLM)
+# - Three-Parameter Logistic Model (3PLM)
+# - Bayes Modal Estimate
+# - Nonparametric Item Response Model
+#
+# Unidimensional IRT Models for Analyzing Polytomous Responses
+# - Partial Credit Model (PCM)
+# - Generalized PCM (GPCM)
+# - Rating Scale Model (RSM)
+# - Graded Response Model(GRM)
+# - Nominal Response Model (NRM)
+#
+# Multidimensional IRT Model for Dichotomous Responses
+# - Multidimensional Compensatory Three-Parameter Logistic Model (MC3PLM)
+
+
 # 1-PL: one parameter logistic model, aka Rasch Model
 #
 # P(theta): probability of someone with proficiency theta responding correctly to an item of difficulty b
